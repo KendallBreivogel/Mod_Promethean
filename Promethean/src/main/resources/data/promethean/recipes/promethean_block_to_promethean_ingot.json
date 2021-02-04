@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "promethean:promethean_block"
+    }
+  ],
+  "result": {
+    "item": "promethean:promethean_ingot",
+    "count": 9
+  }
+}

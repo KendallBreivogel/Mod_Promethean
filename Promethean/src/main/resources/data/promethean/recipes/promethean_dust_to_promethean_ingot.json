@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "promethean:promethean_dust"
+        },
+        {
+            "item": "promethean:promethean_dust"
+        },
+        {
+            "item": "promethean:promethean_dust"
+        },
+        {
+            "item": "promethean:promethean_dust"
+        }
+    ],
+    "result": {
+        "item": "promethean:promethean_ingot",
+        "count": 1
+    }
+}

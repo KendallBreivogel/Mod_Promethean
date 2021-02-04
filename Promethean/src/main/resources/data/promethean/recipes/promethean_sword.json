@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "p",
+        "p",
+        "/"
+    ],
+    "key": {
+        "p": {
+            "item": "promethean:promethean_ingot"
+        },
+        "/": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "item": "promethean:promethean_sword",
+        "count": 1
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "#P#",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:ice"
+        },
+        "P": {
+            "item": "promethean:promethean_sword"
+        }
+    },
+    "result": {
+        "item": "promethean:ice_sword",
+        "count": 1
+    }
+}

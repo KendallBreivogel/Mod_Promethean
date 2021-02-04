@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "#P#",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:magma_block"
+        },
+        "P": {
+            "item": "promethean:promethean_sword"
+        }
+    },
+    "result": {
+        "item": "promethean:fire_sword",
+        "count": 1
+    }
+}

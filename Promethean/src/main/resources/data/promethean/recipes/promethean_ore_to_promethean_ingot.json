@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": {
+        "item": "promethean:promethean_ore"
+    },
+    "result": "promethean:promethean_ingot",
+    "experience": 0.1,
+    "cookingtime": 200
+}

@@ -1,0 +1,14 @@
+{
+	"item.promethean.promethean_ingot": "Promethean Ingot",
+	"item.promethean.promethean_dust": "Promethean Dust",
+	"item.promethean.promethean_sword": "Promethean Sword",
+	"item.promethean.ice_sword": "Glacial Sword",
+	"item.promethean.fire_sword": "Magma Sword",
+	"itemGroup.promethean": "Practice Mod",
+	"block.promethean.promethean_ore" : "Promethean Ore",
+	"block.promethean.promethean_block" : "Promethean Block",
+	"block.promethean.promethean_lamp" : "Promethean Lamp",
+	"block.promethean.volcanic_sand" : "Volcanic Sand",
+	"block.promethean.volcanic_sand_hot" : "Smoldering Volcanic Sand",
+	"block.promethean.star_block" : "Star Block"
+}

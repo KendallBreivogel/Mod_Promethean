@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "promethean:block/star_block"
+    }
+  }
+}
